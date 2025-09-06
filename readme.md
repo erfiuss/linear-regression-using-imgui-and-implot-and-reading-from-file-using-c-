@@ -50,5 +50,6 @@ sudo pacman -S glfw glad
 
 ### Result
 ```
-https://github.com/erfiuss/linear-regression-using-imgui-and-implot-and-reading-from-file-using-c-/blob/main/Screenshot_20250906_074423.png?raw=true
+![https://github.com/erfiuss/linear-regression-using-imgui-and-implot-and-reading-from-file-using-c-/blob/main/Screenshot_20250906_074423.png?raw=true
+]
 ```
