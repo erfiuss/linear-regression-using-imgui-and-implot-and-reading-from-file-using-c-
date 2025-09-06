@@ -47,3 +47,8 @@ sudo pacman -S glfw glad
 ```
 ./linear_regression <file.csv> <x_column_index> <y_column_index>
 ```
+
+### Result
+```
+https://github.com/erfiuss/linear-regression-using-imgui-and-implot-and-reading-from-file-using-c-/blob/main/Screenshot_20250906_074423.png?raw=true
+```
